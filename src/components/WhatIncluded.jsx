@@ -21,7 +21,7 @@ const WhatIncluded = () => {
     {
       icon: '🎬',
       title: 'Conteúdo em Vídeo',
-      description: '02 vídeos editados (estilo Reels/Recordação) prontos para compartilhar'
+      description: '1 vídeo editado (estilo Reels/Recordação) pronto para compartilhar'
     },
     {
       icon: '🎁',

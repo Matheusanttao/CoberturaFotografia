@@ -10,10 +10,10 @@ const Hero = () => {
           <span className="badge-text">Proposta Exclusiva</span>
         </div>
         <h1 className="hero-title">
-          Cobertura Story Maker (50 Anos)
+          Cobertura Fotográfica (50 Anos)
         </h1>
         <p className="hero-subtitle">
-          Transforme a sua celebração em um conteúdo dinâmico e pronto para as redes sociais. O serviço de Story Maker foca na agilidade, na estética vertical e na captura da energia real da festa através de uma cobertura completa.
+          É uma honra poder eternizar este marco tão especial. Para garantir que cada detalhe, abraço e sorriso seja registrado, trabalhamos com uma equipe de dois profissionais, oferecendo uma cobertura completa e um olhar 360° sobre o seu evento.
         </p>
         <div className="hero-highlight">
           <span className="highlight-icon">✨</span>

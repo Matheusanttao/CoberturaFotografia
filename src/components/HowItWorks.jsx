@@ -35,7 +35,7 @@ const HowItWorks = () => {
               <span className="professional-subtitle">Emoções e Energia</span>
             </div>
             <p className="professional-description">
-              Foca em capturar as emoções espontâneas, a energia da pista de dança e a produção de vídeos.
+              Foca em capturar as emoções espontâneas e a energia da pista de dança.
             </p>
           </div>
         </div>
